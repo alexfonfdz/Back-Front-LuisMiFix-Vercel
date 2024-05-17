@@ -31,4 +31,8 @@ app.use('/api/purchases', purchasesRoutes);
 app.use('/api/historys', historyRoutes);
 app.use('/api/providers', providersRoutes);
 
+app.get('*', (req, res) => {
+    return res.sendFile(path.join(path.resolve(), "public", "index.html"))
+})
+
 export default app;
