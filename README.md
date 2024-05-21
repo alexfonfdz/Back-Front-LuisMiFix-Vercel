@@ -31,4 +31,6 @@ El sistema permite un modo nocturno y uno diurno, también puede usar el predete
 
 <iframe src="https://drive.google.com/file/d/14sA-QPbj5iPoa2wuBrG-b4E80--GQtVl/preview" width="640" height="480" allow="autoplay"></iframe>
 
-<iframe src="https://drive.google.com/file/d/11snPL5pTUPrxmLpzRMIl02AtvYEa4gp3/preview" width="640" height="480" allow="autoplay"></iframe>
+
+![Modo diurno](https://drive.google.com/file/d/11snPL5pTUPrxmLpzRMIl02AtvYEa4gp3/view?usp=sharing)
+![Modo diurno](https://drive.google.com/file/d/11snPL5pTUPrxmLpzRMIl02AtvYEa4gp3/preview)
