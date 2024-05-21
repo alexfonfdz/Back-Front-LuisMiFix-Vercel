@@ -26,6 +26,7 @@ Los reportes permite saber que usuario crearon, editaron, deshabilitaron o habil
 ![Sección de reportes](https://raw.githubusercontent.com/alexfonfdz/Back-Front-LuisMiFix-Vercel/main/assets/img/Captura%20de%20pantalla%202024-05-21%20012039.png)
 
 ## Dark-mode/Light-mode
+El sistema permite un modo nocturno y uno diurno, también puede usar el predeterminado por su sistema, es elección al usuario.
 
 ![Modo nocturno](https://raw.githubusercontent.com/alexfonfdz/Back-Front-LuisMiFix-Vercel/main/assets/img/Captura%20de%20pantalla%202024-05-21%20012056.png)
 
